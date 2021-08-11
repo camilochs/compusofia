@@ -1,4 +1,0 @@
-Sitemap: https://camilochs.github.io/compusofia/sitemap.xml
-
-User-agent: *
-Disallow:
