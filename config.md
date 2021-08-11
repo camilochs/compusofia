@@ -5,7 +5,7 @@ Add here global page variables to use throughout your website.
 @def website_descr = "Compusofía. Una revista de informática y filosofía."
 @def website_url   = "https://camilochs.github.io/compusofia/"
 
-@def author = "Camilo Chacón Sartori"
+@def author = "Compusofía"
 
 @def mintoclevel = 2
 
