@@ -11,7 +11,6 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 
 Los temas aceptados por la revista se dividen en estos principales grupos:
 
-
 * **Ingeniería de software**. Sobre técnicas de programación, gestión de proyectos de software (metodología), que, en general, presenten un uso adecuado de tecnologías o estrategias de gestión.
 * **Ciencia de la computación**. Aspectos teóricos (y generales) que involucren temas que vayan más allá del uso de tecnologías. 
 * **Multidisciplinar**. La conexión de la computación con otras áreas del conocimiento, por ejemplo, la ciencia de datos o cómo el arte y la computación se entrelazan. 
