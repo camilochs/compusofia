@@ -3,24 +3,20 @@ Add here global page variables to use throughout your website.
 -->
 @def author = "Camilo Chacón Sartori"
 
+@def mintoclevel = 2
+
 @def prepath = "compusofia"
 
-+++
-author = "Compusofía"
-mintoclevel = 2
+@def ignore = ["node_modules/"]
 
-# Add here files or directories that should be ignored by Franklin, otherwise
-# these files might be copied and, if markdown, processed by Franklin which
-# you might not want. Indicate directories by ending the name with a `/`.
-# Base files such as LICENSE.md and README.md are ignored by default.
-ignore = ["node_modules/"]
+@def generate_rss = true
 
-# RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_rss = true
-website_title = "Compusofía"
-website_descr = "Compusofía. Una revista de informática y filosofía."
-website_url   = "https://camilochs.github.io/compusofia/"
-+++
+@def website_title = "Compusofía"
+
+@def website_descr = "Compusofía. Una revista de informática y filosofía."
+
+@def website_url   = "https://camilochs.github.io/compusofia/"
+
 
 <!--
 Add here global latex commands to use throughout your pages.
