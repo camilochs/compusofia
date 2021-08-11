@@ -1,0 +1,18 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+
+      <img src="/assets/logo.png" />
+      <p class="small">Una revista de informática y filosofía.</p>
+    </div>
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item {{ispage index.html}}active{{end}}" href="/">Inicio</a>
+      <a class="sidebar-nav-item {{ispage pauta/*}}active{{end}}" href="/pauta/">Pauta de envíos</a>
+      <a class="sidebar-nav-item {{ispage ediciones/*}}active{{end}}" href="/ediciones/">Ediciones pasadas</a>
+      <!--<a class="sidebar-nav-item {{ispage contacto/*}}active{{end}}" href="/contacto/">Contacto</a>-->
+      <!--<a class="sidebar-nav-item {{ispage menu3/*}}active{{end}}" href="/menu3/">Tags</a>-->
+    </nav>
+    <p>&copy; {{fill author}}.</p>
+  </div>
+</div>
+<div class="content container">
