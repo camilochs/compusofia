@@ -1,10 +1,13 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
+@def author = "Camilo Chacón Sartori"
+
+@def prepath = "compusofia"
+
 +++
 author = "Compusofía"
 mintoclevel = 2
-prepath = "compusofia"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
